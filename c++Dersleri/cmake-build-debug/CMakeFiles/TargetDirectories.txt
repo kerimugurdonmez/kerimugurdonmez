@@ -1,0 +1,3 @@
+C:/Users/kerim/OneDrive - Saha Bilgi Teknolojileri/CLionProjects/c++Dersleri/cmake-build-debug/CMakeFiles/c__Dersleri.dir
+C:/Users/kerim/OneDrive - Saha Bilgi Teknolojileri/CLionProjects/c++Dersleri/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kerim/OneDrive - Saha Bilgi Teknolojileri/CLionProjects/c++Dersleri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
