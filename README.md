@@ -1,6 +1,5 @@
 ### Kerim Uğur DÖNMEZ resmî GitHub sayfası
 ### Kerim Uğur DÖNMEZ's official GitHub page
-🌱 I’m currently learning C++ programming language
 
 
 <!--
